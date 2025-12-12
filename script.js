@@ -19,3 +19,5 @@ document.addEventListener("DOMContentLoaded", function() {
     window.open("contact.html", "_blank");
   });
 });
+
+
